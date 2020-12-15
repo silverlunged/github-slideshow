@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Herr God, herr Lucifer/ Beware, beware
 Use the left arrow to go back!
